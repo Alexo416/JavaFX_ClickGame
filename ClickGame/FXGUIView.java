@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 import javafx.scene.control.Alert;
 
 /**
- * @author Alexander Hernandez
+ * 
  * <p>
  * This is a click game where you start off doing 1 damage per click to the monster in the middle
  * The user can purchase items on the upper right hand side to increase Damage Per Click
