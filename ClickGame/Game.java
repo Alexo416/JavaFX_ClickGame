@@ -3,7 +3,7 @@ package ClickGame;
 public class Game {
 
     /**
-     * @author Alexander Hernandez
+     * This Class is where the calculations of number of clicks, number of gold, damage done and health points of the monster are created
      */
 
     private int numberOfClicks;
